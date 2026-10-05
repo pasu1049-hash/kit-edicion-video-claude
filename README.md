@@ -16,7 +16,7 @@ Los skills que usa **Matías "Pasu" Pasutti / 1% Fitness** para editar sus histo
 ### Opción fácil: que Claude lo instale
 En Claude Code (app de escritorio, pestaña **Code**, o terminal), pegá:
 
-> Instalá el kit de edición de video de este repo: **[link de este repo]**. Cloná el repo y corré el instalador.
+> Instalá el kit de edición de video de este repo: **https://github.com/pasu1049-hash/kit-edicion-video-claude**. Cloná el repo y corré el instalador.
 
 ### Opción manual
 1. Tener instalado: **Git, Node.js 22+, Python 3.10+ y FFmpeg**.
