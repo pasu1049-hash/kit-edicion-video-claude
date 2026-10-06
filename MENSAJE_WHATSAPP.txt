@@ -1,0 +1,28 @@
+¡Buenas! 🎬 Te paso el kit con todos los skills que uso con Claude para editar mis historias, reels y videos de 1% Fitness.
+
+*Qué hace:*
+• Subtítulos grandes con las palabras clave en color
+• Corta solo las pausas y los silencios
+• Zoom dinámico y animaciones que aparecen cuando decís una palabra
+• Música sin derechos de autor que baja sola cuando hablás
+• Entrada y cierre con tu marca, más la portada
+• Formato historia (9:16) y feed (4:5), en máxima calidad
+• Además: títulos animados, intros, subtítulos de cine, videos al ritmo de la música y más (HyperFrames + el kit de Nate Herk)
+
+*Antes de instalar:* tenés que tener Git, Node.js, Python y FFmpeg. Si no los tenés, Claude te dice cómo instalarlos.
+
+*Cómo se instala:*
+1. Abrí Claude Code (la app de escritorio de Claude, pestaña *Code*)
+2. Pegale esto tal cual:
+
+Instalá el kit de edición de video de este repo: https://github.com/pasu1049-hash/kit-edicion-video-claude . Cloná el repo y corré el instalador.
+
+3. Cuando termine, cerrá y volvé a abrir Claude.
+
+*Para arrancar:*
+Primero decile: "Completá mi MARCA.md del skill editor-videos-1porciento" (te pregunta nombre, color, @usuario y tono)
+Después: "Editame este video: C:/ruta/del/video.mov. Hacelo historia y feed."
+
+💡 Todo corre en tu compu, sin pagar nada extra. La primera vez que transcribe baja un modelo de 1,5 GB, así que tarda un poco más.
+
+Cualquier cosa me escribís. ¡A romperla! 💪
